@@ -1,0 +1,161 @@
+Atheendre Ramesh
+Computer Science (3rd year)
+atheendreramesh@gmail.com
+
++91 7338798666
+
+RV University, Bangalore
+
+LinkedIn
+
+github
+
+RESEARCH EXPERIENCE
+Research Intern, Indian Institute of Technology (IIT) Tirupati
+Investigating scalable associative memory models and Transformer architecture
+integration
+Exploring Hinton-Hopfield networks for efficient contextual retrieval in long-context
+NLP tasks
+Contributing to research building upon 202 Nobel Prize in Physics winning neural
+network foundations
+
+01/2024 – Present
+Prof. P.C. Deshmukh,
+Department of Physics
+
+Research Collaborator, RV University
+Applied advanced ML concepts beyond curriculum in independent research
+projects
+Worked on PostgreSql, Sqlite, Mongodb.
+
+Prof. P.G. Bhat, Founder
+& President, Pluma
+Knowledge Sol.
+
+•
+
+•
+
+•
+
+•
+
+•
+
+PROFESSIONAL EXPERIENCE
+Under Deepak Koushik, Senior Director of Product Management, Salesforce,
+Agile Development Intern
+Implemented DevOps practices and CI/CD pipelines using Azure DevOps
+Contributed to 20% reduction in deployment time through automated testing
+frameworks
+
+06/2024 – 08/2024
+
+Volunteer Mathematics Teacher, | Robin Hood Army (NGO)
+Teaching 50+ underprivileged students with 50% improvement in test scores
+
+03/2023 – Present
+
+•
+
+•
+
+•
+
+TECHNICAL SKILLS
+Programming
+Python, C programming, Java, JavaScript, SQL
+Reinforcement Learning
+Deep Q-Networks, Actor-Critic Methods, Experience
+Replay
+Tools
+Git, GitHub, Jupyter, OpenAI Gym
+
+AI/ML
+PyTorch, TensorFlow, Scikit-learn, XGBoost, Deep
+Learning - Neural Networks
+Cloud & DevOps
+AWS (Lambda, S3, RDS, SCS), Docker, Serverless
+Framework
+
+TECHNICAL PROJECTS
+AI-Powered Loan Eligibility Engine, Full-Stack AWS
+Github: ai-loan-eligibility-engine
+Developed scalable cloud-native platform using AWS Lambda, S3, RDS, SES
+Implemented multi-stage AI matching system with Cohere LLM Integration
+•
+
+•
+
+Tech Stack: Python, AWS Lambda, PostgreSQL,.
+•
+
+Autonomous AI Development CLI, AI/ML Systems
+GitHub: crazy.coder
+Built enterprise-grade autonomous development system using Gemini 2.5 Pro and Qwen3- Coder 80B
+Implemented intelligent planning, code generation, autonomous execution with 100% success rate
+Integrated multi-layer safety controls with sandboxed execution environment
+Tech Stack: Python, Google Gemini API, Fireworks AI, Docker
+•
+
+•
+
+•
+
+•
+
+Advanced Dueling Double DQN Game Agent, Reinforcement Learning
+GitHub: dueling_double_DQN_dinojunip
+Implemented state-of-the-art Dueling Double Deep Q-Network with prioritized experience replay
+Achieved autonomous gameplay mastery using rew pixel input and advanced RL techniques
+Applied frame stacking, epsilon-greedy exploration, target network updates.
+Tech Stack: Python, PyTorch, OpenAI Gym, NumPy, OpenCV
+•
+
+•
+
+•
+
+•
+
+Behavioral Classification ML System, Machine Learning
+GitHub: Kaggle introvert extrovert
+Developed ensemble classification models (XGBoost, Random Forest, SVM, Neural Networks)
+Achieved 97%+ accuracy in personality prediction with advanced feature engineering
+Tech Stack: Python, Scikit-learn, XGBoost, Pandas
+•
+
+•
+
+•
+
+ACHIEVEMENTS
+Research Publication
+Contributing to cutting-edge Hinton-Hopfield networks research with IIT Madras faculty
+97%+ Accuracy, kaggle
+Top-tier performance in Kaggle personality classification competition
+Open Source contributor
+Multiple production-ready GitHub repositories with comprehensive documentation.
+
+EDUCATION
+Bachelor of Science in Computer Science, | RV University, Bangalore, India
+Relevant Coursework: Machine Learning, Reinforcement Learning, NLP, Neural
+Networks, Linear algebra, Fluid dynamics.
+
+08/2023 – 05/2027
+
+References
+Deepak Koushik, Senior Director of Product Management, Salesforce • Ex-Director, Myntra AI/ML Platforms Expert
+deepak.koushik@gmail.com
+Prof. P.C. Deshmukh, head of, Department of Physics, IIT Tirupati
+pcd@iittp.ac.in
+Prof. P.G. Bhat, Founder & President, Pluma Knowledge Solutions • Ex-Commander, Indian Navy
+pg.bhat@plumasol.com
+
+SUMMARY
+Computer Science undergraduate specializing in AI/ML and Reinforcement Learning with cutting-edge research
+on Hinton-Hopfield networks at IIT Tirupati under Prof. P.C. Deshmukh (2024 Nobel Physics collaboration).
+Demonstrated expertise in autonomous AI systems and production-grade software engineering with 97%+
+kaggle competition accuracy accuracy achievements.
+
+

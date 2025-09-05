@@ -71,18 +71,18 @@ export default class ProjectsSection
     {
         this.list = [
             {
-                name: 'Hinton-Hopfield Networks Research',
+                name: 'AI-Powered Loan Eligibility Engine',
                 imageSources:
                 [
-                    './models/projects/hintonHopfield/slideA.jpg',
-                    './models/projects/hintonHopfield/slideB.jpg',
-                    './models/projects/hintonHopfield/slideC.jpg',
-                    './models/projects/hintonHopfield/slideD.jpg'
+                    './models/projects/aiLoanEngine/slideA.jpg',
+                    './models/projects/aiLoanEngine/slideB.jpg',
+                    './models/projects/aiLoanEngine/slideC.jpg',
+                    './models/projects/aiLoanEngine/slideD.jpg'
                 ],
                 floorTexture: this.resources.items.projectsThreejsJourneyFloorTexture,
                 link:
                 {
-                    href: 'https://github.com/atheendre130505',
+                    href: 'https://github.com/atheendre130505/ai-loan-eligibility-engine',
                     x: - 4.8,
                     y: - 3,
                     halfExtents:
@@ -97,17 +97,17 @@ export default class ProjectsSection
                 ]
             },
             {
-                name: 'AI/ML Research Projects',
+                name: 'Autonomous AI Development CLI',
                 imageSources:
                 [
-                    './models/projects/aiMl/slideA.jpg',
-                    './models/projects/aiMl/slideB.jpg',
-                    './models/projects/aiMl/slideC.jpg'
+                    './models/projects/autocoder/slideA.jpg',
+                    './models/projects/autocoder/slideB.jpg',
+                    './models/projects/autocoder/slideC.jpg'
                 ],
                 floorTexture: this.resources.items.projectsChartogneFloorTexture,
                 link:
                 {
-                    href: 'https://github.com/atheendre130505',
+                    href: 'https://github.com/atheendre130505/crazy.coder',
                     x: - 4.8,
                     y: - 3.3,
                     halfExtents:
@@ -124,18 +124,18 @@ export default class ProjectsSection
                 ]
             },
             {
-                name: 'Reinforcement Learning',
+                name: 'Dueling Double DQN Dinojump',
                 imageSources:
                 [
-                    './models/projects/rl/slideA.webp',
-                    './models/projects/rl/slideB.webp',
-                    './models/projects/rl/slideC.webp',
-                    './models/projects/rl/slideD.webp'
+                    './models/projects/dqnDinojump/slideA.webp',
+                    './models/projects/dqnDinojump/slideB.webp',
+                    './models/projects/dqnDinojump/slideC.webp',
+                    './models/projects/dqnDinojump/slideD.webp'
                 ],
                 floorTexture: this.resources.items.projectsBonhomme10ansFloorTexture,
                 link:
                 {
-                    href: 'https://github.com/atheendre130505',
+                    href: 'https://github.com/atheendre130505/dueling_double_DQN_dinojump',
                     x: - 4.8,
                     y: - 2,
                     halfExtents:
@@ -151,18 +151,18 @@ export default class ProjectsSection
                 ]
             },
             {
-                name: 'Computer Vision Projects',
+                name: 'Kaggle Introvert-Extrovert (97.5%)',
                 imageSources:
                 [
-                    './models/projects/cv/slideA.webp',
-                    './models/projects/cv/slideB.webp',
-                    './models/projects/cv/slideC.webp',
-                    './models/projects/cv/slideD.webp'
+                    './models/projects/kagglePersonality/slideA.webp',
+                    './models/projects/kagglePersonality/slideB.webp',
+                    './models/projects/kagglePersonality/slideC.webp',
+                    './models/projects/kagglePersonality/slideD.webp'
                 ],
                 floorTexture: this.resources.items.projectsLuniFloorTexture,
                 link:
                 {
-                    href: 'https://github.com/atheendre130505',
+                    href: 'https://github.com/atheendre130505/Kaggle_introvert-extrovert',
                     x: - 4.8,
                     y: - 3,
                     halfExtents:
@@ -178,17 +178,17 @@ export default class ProjectsSection
                 ]
             },
             {
-                name: 'Deep Learning Models',
+                name: 'GANs Monet - Style Transfer',
                 imageSources:
                 [
-                    './models/projects/dl/slideA.jpg',
-                    './models/projects/dl/slideB.jpg',
-                    './models/projects/dl/slideC.jpg'
+                    './models/projects/gansMonet/slideA.jpg',
+                    './models/projects/gansMonet/slideB.jpg',
+                    './models/projects/gansMonet/slideC.jpg'
                 ],
                 floorTexture: this.resources.items.projectsMadboxFloorTexture,
                 link:
                 {
-                    href: 'https://github.com/atheendre130505',
+                    href: 'https://github.com/atheendre130505/gans_monet',
                     x: - 4.8,
                     y: - 4,
                     halfExtents:
@@ -204,17 +204,17 @@ export default class ProjectsSection
                 ]
             },
             {
-                name: 'Data Science Projects',
+                name: 'Billions - Freelance Project',
                 imageSources:
                 [
-                    './models/projects/ds/slideA.jpg',
-                    './models/projects/ds/slideB.jpg',
-                    './models/projects/ds/slideC.jpg'
+                    './models/projects/billions/slideA.jpg',
+                    './models/projects/billions/slideB.jpg',
+                    './models/projects/billions/slideC.jpg'
                 ],
                 floorTexture: this.resources.items.projectsScoutFloorTexture,
                 link:
                 {
-                    href: 'https://github.com/atheendre130505',
+                    href: 'https://github.com/atheendre130505/billions',
                     x: - 4.8,
                     y: - 2,
                     halfExtents:
@@ -228,12 +228,12 @@ export default class ProjectsSection
                 ]
             },
             {
-                name: 'Python Development',
+                name: 'Hinton-Hopfield Networks Research',
                 imageSources:
                 [
-                    './models/projects/python/slideA.jpg',
-                    './models/projects/python/slideB.jpg',
-                    './models/projects/python/slideC.jpg'
+                    './models/projects/hintonHopfield/slideA.jpg',
+                    './models/projects/hintonHopfield/slideB.jpg',
+                    './models/projects/hintonHopfield/slideC.jpg'
                 ],
                 floorTexture: this.resources.items.projectsPriorHoldingsFloorTexture,
                 link:
@@ -255,12 +255,12 @@ export default class ProjectsSection
                 ]
             },
             {
-                name: 'Machine Learning Algorithms',
+                name: 'IIT Tirupati Research',
                 imageSources:
                 [
-                    './models/projects/ml/slideA.jpg',
-                    './models/projects/ml/slideB.jpg',
-                    './models/projects/ml/slideC.jpg'
+                    './models/projects/iitResearch/slideA.jpg',
+                    './models/projects/iitResearch/slideB.jpg',
+                    './models/projects/iitResearch/slideC.jpg'
                 ],
                 floorTexture: this.resources.items.projectsOranoFloorTexture,
                 link:
@@ -282,12 +282,12 @@ export default class ProjectsSection
                 ]
             },
             {
-                name: 'Research Publications',
+                name: 'Salesforce Internship',
                 imageSources:
                 [
-                    './models/projects/research/slideA.jpg',
-                    './models/projects/research/slideB.jpg',
-                    './models/projects/research/slideC.jpg'
+                    './models/projects/salesforce/slideA.jpg',
+                    './models/projects/salesforce/slideB.jpg',
+                    './models/projects/salesforce/slideC.jpg'
                 ],
                 floorTexture: this.resources.items.projectsCitrixRedbullFloorTexture,
                 link:

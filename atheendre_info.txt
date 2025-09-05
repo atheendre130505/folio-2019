@@ -1,0 +1,147 @@
+# Atheendre Ramesh - Complete Portfolio Information
+
+## Personal Information
+- **Name**: Atheendre Ramesh
+- **Title**: Computer Science Student (3rd year) | AI/ML Engineer & Researcher
+- **Email**: atheendreramesh@gmail.com
+- **Phone**: +91 7338798666
+- **University**: RV University, Bangalore
+- **LinkedIn**: [LinkedIn Profile]
+- **GitHub**: https://github.com/atheendre130505
+
+## Current Status
+- **Education**: Bachelor of Science in Computer Science (2023-2027)
+- **Current Role**: Research Intern at IIT Tirupati
+- **Research Focus**: Hinton-Hopfield networks and Transformer architecture integration
+
+## Research Experience
+
+### Research Intern, Indian Institute of Technology (IIT) Tirupati
+**Duration**: 01/2024 – Present
+**Supervisor**: Prof. P.C. Deshmukh, Department of Physics
+**Key Work**:
+- Investigating scalable associative memory models and Transformer architecture integration
+- Exploring Hinton-Hopfield networks for efficient contextual retrieval in long-context NLP tasks
+- Contributing to research building upon 2024 Nobel Prize in Physics winning neural network foundations
+
+### Research Collaborator, RV University
+**Supervisor**: Prof. P.G. Bhat, Founder & President, Pluma Knowledge Solutions
+**Key Work**:
+- Applied advanced ML concepts beyond curriculum in independent research projects
+- Worked on PostgreSQL, SQLite, MongoDB databases
+
+## Professional Experience
+
+### Agile Development Intern, Salesforce
+**Duration**: 06/2024 – 08/2024
+**Supervisor**: Deepak Koushik, Senior Director of Product Management
+**Key Achievements**:
+- Implemented DevOps practices and CI/CD pipelines using Azure DevOps
+- Contributed to 20% reduction in deployment time through automated testing frameworks
+
+### Volunteer Mathematics Teacher, Robin Hood Army (NGO)
+**Duration**: 03/2023 – Present
+**Key Achievements**:
+- Teaching 50+ underprivileged students
+- Achieved 50% improvement in test scores
+
+## Technical Skills
+
+### Programming Languages
+- Python, C programming, Java, JavaScript, SQL
+
+### AI/ML Technologies
+- PyTorch, TensorFlow, Scikit-learn, XGBoost
+- Deep Learning - Neural Networks
+- Reinforcement Learning: Deep Q-Networks, Actor-Critic Methods, Experience Replay
+
+### Cloud & DevOps
+- AWS (Lambda, S3, RDS, SES), Docker, Serverless Framework
+- Git, GitHub, Jupyter, OpenAI Gym
+
+## Key Projects
+
+### 1. AI-Powered Loan Eligibility Engine
+**GitHub**: ai-loan-eligibility-engine
+**Description**: Full-Stack AWS cloud-native platform
+**Tech Stack**: Python, AWS Lambda, PostgreSQL, S3, SES
+**Key Features**:
+- Developed scalable cloud-native platform using AWS Lambda, S3, RDS, SES
+- Implemented multi-stage AI matching system with Cohere LLM Integration
+
+### 2. Autonomous AI Development CLI (Autocoder)
+**GitHub**: crazy.coder
+**Description**: Enterprise-grade autonomous development system
+**Tech Stack**: Python, Google Gemini API, Fireworks AI, Docker
+**Key Features**:
+- Built using Gemini 2.5 Pro and Qwen3-Coder 80B
+- Implemented intelligent planning, code generation, autonomous execution with 100% success rate
+- Integrated multi-layer safety controls with sandboxed execution environment
+
+### 3. Advanced Dueling Double DQN Game Agent
+**GitHub**: dueling_double_DQN_dinojump
+**Description**: Reinforcement Learning project
+**Tech Stack**: Python, PyTorch, OpenAI Gym, NumPy, OpenCV
+**Key Features**:
+- Implemented state-of-the-art Dueling Double Deep Q-Network with prioritized experience replay
+- Achieved autonomous gameplay mastery using raw pixel input and advanced RL techniques
+- Applied frame stacking, epsilon-greedy exploration, target network updates
+
+### 4. Behavioral Classification ML System
+**GitHub**: Kaggle_introvert-extrovert
+**Description**: Machine Learning competition project
+**Tech Stack**: Python, Scikit-learn, XGBoost, Pandas
+**Key Features**:
+- Developed ensemble classification models (XGBoost, Random Forest, SVM, Neural Networks)
+- Achieved 97%+ accuracy in personality prediction with advanced feature engineering
+
+### 5. GANs Monet
+**GitHub**: gans_monet
+**Description**: Deep learning project using Generative Adversarial Networks
+**Key Features**:
+- Transform photos into Claude Monet-style paintings through artistic style transfer techniques
+
+### 6. Billions (Freelance Project)
+**Description**: Production-scale full-stack solution
+**Key Features**:
+- Engineered as a full-stack solution from backend to front-end
+- Demonstrates track record of client success and robust system design
+
+## Achievements
+- **Research Publication**: Contributing to cutting-edge Hinton-Hopfield networks research with IIT Madras faculty
+- **97%+ Accuracy**: Top-tier performance in Kaggle personality classification competition
+- **Open Source Contributor**: Multiple production-ready GitHub repositories with comprehensive documentation
+- **20% Deployment Time Reduction**: Through automated testing frameworks at Salesforce
+
+## Education
+**Bachelor of Science in Computer Science**
+- **Institution**: RV University, Bangalore, India
+- **Duration**: 08/2023 – 05/2027
+- **Relevant Coursework**: Machine Learning, Reinforcement Learning, NLP, Neural Networks, Linear algebra, Fluid dynamics
+
+## References
+1. **Deepak Koushik** - Senior Director of Product Management, Salesforce • Ex-Director, Myntra AI/ML Platforms Expert
+   - Email: deepak.koushik@gmail.com
+
+2. **Prof. P.C. Deshmukh** - Head of Department of Physics, IIT Tirupati
+   - Email: pcd@iittp.ac.in
+
+3. **Prof. P.G. Bhat** - Founder & President, Pluma Knowledge Solutions • Ex-Commander, Indian Navy
+   - Email: pg.bhat@plumasol.com
+
+## Summary
+Computer Science undergraduate specializing in AI/ML and Reinforcement Learning with cutting-edge research on Hinton-Hopfield networks at IIT Tirupati under Prof. P.C. Deshmukh (2024 Nobel Physics collaboration). Demonstrated expertise in autonomous AI systems and production-grade software engineering with 97%+ kaggle competition accuracy achievements.
+
+## GitHub Profile Highlights
+- **32 Repositories** with diverse AI/ML projects
+- **6 Stars** received on projects
+- **Pinned Repositories**:
+  1. scikit-learn (Fork)
+  2. dueling_double_DQN_dinojump
+  3. Kaggle_introvert-extrovert
+  4. tumunu/lotek
+  5. gans_monet
+  6. ai-loan-eligibility-engine
+
+## Portfolio Theme
+"Engineering Elegance & Impact" - A curated collection of projects that blend production-grade robustness with cutting-edge AI innovation, showcasing the journey from intuitive algorithms to scalable systems.

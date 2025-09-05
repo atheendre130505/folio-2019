@@ -1,6 +1,6 @@
 # Atheendre Ramesh - 3D Portfolio
 
-A stunning 3D interactive portfolio website showcasing my work as an AI/ML Engineer and Research Collaborator. Built with Three.js and inspired by Bruno Simon's folio-2019, this portfolio features an immersive 3D environment where visitors can explore my projects and research work.
+A stunning 3D interactive portfolio website showcasing my work as an AI/ML Engineer and Research Intern at IIT Tirupati. Built with Three.js and inspired by Bruno Simon's folio-2019, this portfolio features an immersive 3D environment where visitors can explore my 32 GitHub repositories, research work, and professional achievements.
 
 ## 🚀 Live Demo
 
@@ -15,16 +15,17 @@ Visit the live website: [https://atheendre130505.github.io/](https://atheendre13
 - **Modern Web Technologies**: Built with Three.js, Vite, and modern JavaScript
 - **Performance Optimized**: Smooth 60fps animations and interactions
 
-## 🎯 Project Categories
+## 🎯 Featured Projects
 
-1. **Hinton-Hopfield Networks Research** - Cutting-edge research on neural networks
-2. **AI/ML Research Projects** - Various artificial intelligence and machine learning projects
-3. **Reinforcement Learning** - Deep reinforcement learning implementations
-4. **Computer Vision Projects** - Image processing and computer vision applications
-5. **Deep Learning Models** - Neural network architectures and implementations
-6. **Data Science Projects** - Data analysis and visualization projects
-7. **Python Development** - Software development and programming projects
-8. **Research Publications** - Academic papers and research contributions
+1. **AI-Powered Loan Eligibility Engine** - Full-stack AWS cloud-native platform with Cohere LLM integration
+2. **Autonomous AI Development CLI** - Enterprise-grade system using Gemini 2.5 Pro and Qwen3-Coder 80B
+3. **Dueling Double DQN Dinojump** - Advanced reinforcement learning with prioritized experience replay
+4. **Kaggle Introvert-Extrovert (97.5%)** - Ensemble classification models achieving 97%+ accuracy
+5. **GANs Monet - Style Transfer** - Deep learning project transforming photos into Monet-style paintings
+6. **Billions - Freelance Project** - Production-scale full-stack solution for client success
+7. **Hinton-Hopfield Networks Research** - Cutting-edge research at IIT Tirupati on neural networks
+8. **IIT Tirupati Research** - Transformer architecture integration and associative memory models
+9. **Salesforce Internship** - DevOps practices and CI/CD pipelines with 20% deployment time reduction
 
 ## 🛠️ Technologies Used
 
@@ -144,12 +145,15 @@ This project is based on Bruno Simon's folio-2019 and is licensed under the MIT 
 ## 👨‍💻 About Me
 
 **Atheendre Ramesh**  
-AI/ML Engineer & Research Collaborator  
-IIT Tirupati, India
+AI/ML Engineer & Research Intern at IIT Tirupati  
+RV University, Bangalore | IIT Tirupati, India
 
-- **Research Focus**: Hinton-Hopfield Networks, Reinforcement Learning
-- **Skills**: Python, Machine Learning, Deep Learning, Computer Vision
-- **Interests**: AI Research, Neural Networks, Data Science
+- **Current Role**: Research Intern at IIT Tirupati (Jan 2024 - Present)
+- **Education**: Computer Science (3rd year) at RV University, Bangalore
+- **Research Focus**: Hinton-Hopfield Networks, Transformer Architecture Integration
+- **Achievements**: 97%+ Kaggle accuracy, 32 GitHub repositories, Salesforce intern
+- **Skills**: Python, PyTorch, TensorFlow, AWS, Reinforcement Learning, Deep Learning
+- **Experience**: 20% deployment time reduction at Salesforce, 50% test score improvement teaching
 
 ## 🔗 Links
 
