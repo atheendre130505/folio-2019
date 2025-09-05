@@ -89,20 +89,20 @@ export default class InformationSection
         // Options
         this.links.options = [
             {
-                href: 'https://twitter.com/bruno_simon/',
-                labelTexture: this.resources.items.informationContactTwitterLabelTexture
-            },
-            {
-                href: 'https://github.com/brunosimon/',
+                href: 'https://github.com/atheendre130505/',
                 labelTexture: this.resources.items.informationContactGithubLabelTexture
             },
             {
-                href: 'https://www.linkedin.com/in/simonbruno77/',
+                href: 'https://www.linkedin.com/in/atheendre-ramesh/',
                 labelTexture: this.resources.items.informationContactLinkedinLabelTexture
             },
             {
-                href: 'mailto:simon.bruno.77@gmail.com',
+                href: 'mailto:atheendreramesh@gmail.com',
                 labelTexture: this.resources.items.informationContactMailLabelTexture
+            },
+            {
+                href: 'https://twitter.com/atheendre130505/',
+                labelTexture: this.resources.items.informationContactTwitterLabelTexture
             }
         ]
 

@@ -127,10 +127,10 @@ export default class ThreejsJourney
 //             `,
 //             'color: #705df2;'
 //         )
-        console.log('%cWhat are you doing here?! you sneaky developer...', 'color: #32ffce');
-        console.log('%cDo you want to learn how this portfolio has been made?', 'color: #32ffce');
-        console.log('%cCheckout Three.js Journey 👉 https://threejs-journey.com?c=p2', 'color: #32ffce');
-        console.log('%c— Bruno', 'color: #777777');
+        console.log('%cWelcome to my AI/ML portfolio! 🚀', 'color: #32ffce');
+        console.log('%cI\'m Atheendre, Research Intern at IIT Tirupati', 'color: #32ffce');
+        console.log('%cCheck out my GitHub 👉 https://github.com/atheendre130505', 'color: #32ffce');
+        console.log('%c— Atheendre Ramesh', 'color: #777777');
     }
 
     hide()
