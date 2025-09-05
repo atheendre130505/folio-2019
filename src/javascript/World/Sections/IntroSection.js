@@ -159,7 +159,11 @@ export default class IntroSection
 
     setTitles()
     {
-        // Title
+        // Hide Bruno's 3D letters and add HTML overlay instead
+        this.createHTMLOverlay()
+        
+        // Comment out Bruno's 3D letters
+        /*
         this.objects.add({
             base: this.resources.items.introBBase.scene,
             collision: this.resources.items.introBCollision.scene,
@@ -273,6 +277,33 @@ export default class IntroSection
             mass: 1.5,
             soundName: 'brick'
         })
+        */
+    }
+
+    createHTMLOverlay()
+    {
+        // Create HTML overlay for Atheendre's name
+        const overlay = document.createElement('div')
+        overlay.style.position = 'fixed'
+        overlay.style.top = '50%'
+        overlay.style.left = '50%'
+        overlay.style.transform = 'translate(-50%, -50%)'
+        overlay.style.zIndex = '1000'
+        overlay.style.pointerEvents = 'none'
+        overlay.style.textAlign = 'center'
+        overlay.style.fontFamily = 'Arial, sans-serif'
+        overlay.style.color = 'white'
+        overlay.style.textShadow = '2px 2px 4px rgba(0,0,0,0.8)'
+        
+        overlay.innerHTML = `
+            <div style="font-size: 4rem; font-weight: bold; margin-bottom: 0.5rem;">ATHEENDRE RAMESH</div>
+            <div style="font-size: 2rem; font-weight: normal;">AI/ML ENGINEER</div>
+        `
+        
+        document.body.appendChild(overlay)
+        
+        // Store reference for cleanup
+        this.htmlOverlay = overlay
     }
 
     setTiles()

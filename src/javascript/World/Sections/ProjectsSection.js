@@ -79,7 +79,7 @@ export default class ProjectsSection
                     './models/projects/aiLoanEngine/slideC.jpg',
                     './models/projects/aiLoanEngine/slideD.jpg'
                 ],
-                floorTexture: this.resources.items.projectsThreejsJourneyFloorTexture,
+                floorTexture: this.resources.items.projectsAiLoanEngineFloor,
                 link:
                 {
                     href: 'https://github.com/atheendre130505/ai-loan-eligibility-engine',
@@ -104,7 +104,7 @@ export default class ProjectsSection
                     './models/projects/autocoder/slideB.jpg',
                     './models/projects/autocoder/slideC.jpg'
                 ],
-                floorTexture: this.resources.items.projectsChartogneFloorTexture,
+                floorTexture: this.resources.items.projectsAutocoderFloor,
                 link:
                 {
                     href: 'https://github.com/atheendre130505/crazy.coder',
@@ -127,12 +127,12 @@ export default class ProjectsSection
                 name: 'Dueling Double DQN Dinojump',
                 imageSources:
                 [
-                    './models/projects/dqnDinojump/slideA.webp',
-                    './models/projects/dqnDinojump/slideB.webp',
-                    './models/projects/dqnDinojump/slideC.webp',
-                    './models/projects/dqnDinojump/slideD.webp'
+                    './models/projects/dqnDinojump/slideA.jpg',
+                    './models/projects/dqnDinojump/slideB.jpg',
+                    './models/projects/dqnDinojump/slideC.jpg',
+                    './models/projects/dqnDinojump/slideD.jpg'
                 ],
-                floorTexture: this.resources.items.projectsBonhomme10ansFloorTexture,
+                floorTexture: this.resources.items.projectsDqnDinojumpFloor,
                 link:
                 {
                     href: 'https://github.com/atheendre130505/dueling_double_DQN_dinojump',
@@ -154,12 +154,12 @@ export default class ProjectsSection
                 name: 'Kaggle Introvert-Extrovert (97.5%)',
                 imageSources:
                 [
-                    './models/projects/kagglePersonality/slideA.webp',
-                    './models/projects/kagglePersonality/slideB.webp',
-                    './models/projects/kagglePersonality/slideC.webp',
-                    './models/projects/kagglePersonality/slideD.webp'
+                    './models/projects/kagglePersonality/slideA.jpg',
+                    './models/projects/kagglePersonality/slideB.jpg',
+                    './models/projects/kagglePersonality/slideC.jpg',
+                    './models/projects/kagglePersonality/slideD.jpg'
                 ],
-                floorTexture: this.resources.items.projectsLuniFloorTexture,
+                floorTexture: this.resources.items.projectsKagglePersonalityFloor,
                 link:
                 {
                     href: 'https://github.com/atheendre130505/Kaggle_introvert-extrovert',
@@ -185,7 +185,7 @@ export default class ProjectsSection
                     './models/projects/gansMonet/slideB.jpg',
                     './models/projects/gansMonet/slideC.jpg'
                 ],
-                floorTexture: this.resources.items.projectsMadboxFloorTexture,
+                floorTexture: this.resources.items.projectsGansMonetFloor,
                 link:
                 {
                     href: 'https://github.com/atheendre130505/gans_monet',
@@ -211,7 +211,7 @@ export default class ProjectsSection
                     './models/projects/billions/slideB.jpg',
                     './models/projects/billions/slideC.jpg'
                 ],
-                floorTexture: this.resources.items.projectsScoutFloorTexture,
+                floorTexture: this.resources.items.projectsBillionsFloor,
                 link:
                 {
                     href: 'https://github.com/atheendre130505/billions',
@@ -235,7 +235,7 @@ export default class ProjectsSection
                     './models/projects/hintonHopfield/slideB.jpg',
                     './models/projects/hintonHopfield/slideC.jpg'
                 ],
-                floorTexture: this.resources.items.projectsPriorHoldingsFloorTexture,
+                floorTexture: this.resources.items.projectsHintonHopfieldFloor,
                 link:
                 {
                     href: 'https://github.com/atheendre130505',
@@ -262,7 +262,7 @@ export default class ProjectsSection
                     './models/projects/iitResearch/slideB.jpg',
                     './models/projects/iitResearch/slideC.jpg'
                 ],
-                floorTexture: this.resources.items.projectsOranoFloorTexture,
+                floorTexture: this.resources.items.projectsIitResearchFloor,
                 link:
                 {
                     href: 'https://github.com/atheendre130505',
@@ -289,7 +289,7 @@ export default class ProjectsSection
                     './models/projects/salesforce/slideB.jpg',
                     './models/projects/salesforce/slideC.jpg'
                 ],
-                floorTexture: this.resources.items.projectsCitrixRedbullFloorTexture,
+                floorTexture: this.resources.items.projectsSalesforceFloor,
                 link:
                 {
                     href: 'https://github.com/atheendre130505',

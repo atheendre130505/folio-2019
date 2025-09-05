@@ -119,6 +119,17 @@ export default class Resources extends EventEmitter
             // { name: 'projectsGleecChatFloor', source: './models/projects/gleecChat/floorTexture.png', type: 'texture' },
             // { name: 'projectsKepplerFloor', source: './models/projects/keppler/floorTexture.png', type: 'texture' },
 
+            // Atheendre's Projects
+            { name: 'projectsAiLoanEngineFloor', source: './models/projects/aiLoanEngine/floorTexture.png', type: 'texture' },
+            { name: 'projectsAutocoderFloor', source: './models/projects/autocoder/floorTexture.png', type: 'texture' },
+            { name: 'projectsDqnDinojumpFloor', source: './models/projects/dqnDinojump/floorTexture.png', type: 'texture' },
+            { name: 'projectsKagglePersonalityFloor', source: './models/projects/kagglePersonality/floorTexture.png', type: 'texture' },
+            { name: 'projectsGansMonetFloor', source: './models/projects/gansMonet/floorTexture.png', type: 'texture' },
+            { name: 'projectsBillionsFloor', source: './models/projects/billions/floorTexture.png', type: 'texture' },
+            { name: 'projectsHintonHopfieldFloor', source: './models/projects/hintonHopfield/floorTexture.png', type: 'texture' },
+            { name: 'projectsIitResearchFloor', source: './models/projects/iitResearch/floorTexture.png', type: 'texture' },
+            { name: 'projectsSalesforceFloor', source: './models/projects/salesforce/floorTexture.png', type: 'texture' },
+
             // Information
             { name: 'informationStaticBase', source: './models/information/static/base.glb' },
             { name: 'informationStaticCollision', source: './models/information/static/collision.glb' },
