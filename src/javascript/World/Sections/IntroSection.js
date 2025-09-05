@@ -159,22 +159,54 @@ export default class IntroSection
 
     setTitles()
     {
-        // Hide Bruno's 3D letters and add HTML overlay instead
-        this.createHTMLOverlay()
+        // Create Atheendre's name using available letters
+        this.createAtheendreName()
+    }
+
+    createAtheendreName()
+    {
+        // Create "ATHEENDRE" using available letters
+        // A - use 'A' (we'll need to create this)
+        // T - use 'T' (we'll need to create this) 
+        // H - use 'H' (we'll need to create this)
+        // E - use 'E' (we'll need to create this)
+        // E - use 'E' (we'll need to create this)
+        // N - use existing 'N'
+        // D - use 'D' (we'll need to create this)
+        // R - use existing 'R'
+        // E - use 'E' (we'll need to create this)
         
-        // Comment out Bruno's 3D letters
-        /*
+        // For now, let's use available letters to spell something similar
+        // We have: b, i, m, n, o, r, s, u
+        
+        // Let's spell "ATHEENDRE" using available letters by reusing some
+        // A -> use 'A' (create), T -> use 'T' (create), H -> use 'H' (create)
+        // E -> use 'E' (create), E -> use 'E' (create), N -> use 'N'
+        // D -> use 'D' (create), R -> use 'R', E -> use 'E' (create)
+        
+        // Since we don't have all letters, let's use what we have creatively
+        // Let's spell "ATHEENDRE" by positioning available letters
+        
+        // First row: ATHEENDRE
+        // A (0, 0) - need to create
+        // T (1.2, 0) - need to create  
+        // H (2.4, 0) - need to create
+        // E (3.6, 0) - need to create
+        // E (4.8, 0) - need to create
+        // N (6.0, 0) - existing
+        // D (7.2, 0) - need to create
+        // R (8.4, 0) - existing
+        // E (9.6, 0) - need to create
+        
+        // For now, let's use available letters to create a similar effect
+        // We'll use the existing letters and position them to spell something
+        
+        // Use 'R' for A, 'S' for T, 'M' for H, 'O' for E, etc.
+        // This is a temporary solution until we can create proper letter models
+        
+        // ATHEENDRE using available letters (approximation)
         this.objects.add({
-            base: this.resources.items.introBBase.scene,
-            collision: this.resources.items.introBCollision.scene,
-            offset: new THREE.Vector3(0, 0, 0),
-            rotation: new THREE.Euler(0, 0, 0),
-            shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
-            mass: 1.5,
-            soundName: 'brick'
-        })
-        this.objects.add({
-            base: this.resources.items.introRBase.scene,
+            base: this.resources.items.introRBase.scene, // R as A
             collision: this.resources.items.introRCollision.scene,
             offset: new THREE.Vector3(0, 0, 0),
             rotation: new THREE.Euler(0, 0, 0),
@@ -182,128 +214,179 @@ export default class IntroSection
             mass: 1.5,
             soundName: 'brick'
         })
+        
         this.objects.add({
-            base: this.resources.items.introUBase.scene,
-            collision: this.resources.items.introUCollision.scene,
-            offset: new THREE.Vector3(0, 0, 0),
-            rotation: new THREE.Euler(0, 0, 0),
-            shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
-            mass: 1.5,
-            soundName: 'brick'
-        })
-        this.objects.add({
-            base: this.resources.items.introNBase.scene,
-            collision: this.resources.items.introNCollision.scene,
-            offset: new THREE.Vector3(0, 0, 0),
-            rotation: new THREE.Euler(0, 0, 0),
-            duplicated: true,
-            shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
-            mass: 1.5,
-            soundName: 'brick'
-        })
-        this.objects.add({
-            base: this.resources.items.introOBase.scene,
-            collision: this.resources.items.introOCollision.scene,
-            offset: new THREE.Vector3(0, 0, 0),
-            rotation: new THREE.Euler(0, 0, 0),
-            duplicated: true,
-            shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
-            mass: 1.5,
-            soundName: 'brick'
-        })
-        this.objects.add({
-            base: this.resources.items.introSBase.scene,
+            base: this.resources.items.introSBase.scene, // S as T
             collision: this.resources.items.introSCollision.scene,
-            offset: new THREE.Vector3(0, 0, 0),
+            offset: new THREE.Vector3(1.2, 0, 0),
             rotation: new THREE.Euler(0, 0, 0),
             shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
             mass: 1.5,
             soundName: 'brick'
         })
+        
         this.objects.add({
-            base: this.resources.items.introIBase.scene,
-            collision: this.resources.items.introICollision.scene,
-            offset: new THREE.Vector3(0, 0, 0),
-            rotation: new THREE.Euler(0, 0, 0),
-            shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
-            mass: 1.5,
-            soundName: 'brick'
-        })
-        this.objects.add({
-            base: this.resources.items.introMBase.scene,
+            base: this.resources.items.introMBase.scene, // M as H
             collision: this.resources.items.introMCollision.scene,
-            offset: new THREE.Vector3(0, 0, 0),
+            offset: new THREE.Vector3(2.4, 0, 0),
             rotation: new THREE.Euler(0, 0, 0),
             shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
             mass: 1.5,
             soundName: 'brick'
         })
+        
         this.objects.add({
-            base: this.resources.items.introOBase.scene,
+            base: this.resources.items.introOBase.scene, // O as E
             collision: this.resources.items.introOCollision.scene,
-            offset: new THREE.Vector3(3.95, 0, 0),
+            offset: new THREE.Vector3(3.6, 0, 0),
+            rotation: new THREE.Euler(0, 0, 0),
+            shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
+            mass: 1.5,
+            soundName: 'brick'
+        })
+        
+        this.objects.add({
+            base: this.resources.items.introOBase.scene, // O as E
+            collision: this.resources.items.introOCollision.scene,
+            offset: new THREE.Vector3(4.8, 0, 0),
             rotation: new THREE.Euler(0, 0, 0),
             duplicated: true,
             shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
             mass: 1.5,
             soundName: 'brick'
         })
+        
         this.objects.add({
-            base: this.resources.items.introNBase.scene,
+            base: this.resources.items.introNBase.scene, // N as N
             collision: this.resources.items.introNCollision.scene,
-            offset: new THREE.Vector3(5.85, 0, 0),
+            offset: new THREE.Vector3(6.0, 0, 0),
+            rotation: new THREE.Euler(0, 0, 0),
+            shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
+            mass: 1.5,
+            soundName: 'brick'
+        })
+        
+        this.objects.add({
+            base: this.resources.items.introRBase.scene, // R as D
+            collision: this.resources.items.introRCollision.scene,
+            offset: new THREE.Vector3(7.2, 0, 0),
             rotation: new THREE.Euler(0, 0, 0),
             duplicated: true,
             shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
             mass: 1.5,
             soundName: 'brick'
         })
+        
         this.objects.add({
-            base: this.resources.items.introCreativeBase.scene,
+            base: this.resources.items.introRBase.scene, // R as R
+            collision: this.resources.items.introRCollision.scene,
+            offset: new THREE.Vector3(8.4, 0, 0),
+            rotation: new THREE.Euler(0, 0, 0),
+            duplicated: true,
+            shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
+            mass: 1.5,
+            soundName: 'brick'
+        })
+        
+        this.objects.add({
+            base: this.resources.items.introOBase.scene, // O as E
+            collision: this.resources.items.introOCollision.scene,
+            offset: new THREE.Vector3(9.6, 0, 0),
+            rotation: new THREE.Euler(0, 0, 0),
+            duplicated: true,
+            shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
+            mass: 1.5,
+            soundName: 'brick'
+        })
+        
+        // Second row: RAMESH
+        this.objects.add({
+            base: this.resources.items.introRBase.scene, // R as R
+            collision: this.resources.items.introRCollision.scene,
+            offset: new THREE.Vector3(0, -1.5, 0),
+            rotation: new THREE.Euler(0, 0, 0),
+            duplicated: true,
+            shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
+            mass: 1.5,
+            soundName: 'brick'
+        })
+        
+        this.objects.add({
+            base: this.resources.items.introRBase.scene, // R as A
+            collision: this.resources.items.introRCollision.scene,
+            offset: new THREE.Vector3(1.2, -1.5, 0),
+            rotation: new THREE.Euler(0, 0, 0),
+            duplicated: true,
+            shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
+            mass: 1.5,
+            soundName: 'brick'
+        })
+        
+        this.objects.add({
+            base: this.resources.items.introMBase.scene, // M as M
+            collision: this.resources.items.introMCollision.scene,
+            offset: new THREE.Vector3(2.4, -1.5, 0),
+            rotation: new THREE.Euler(0, 0, 0),
+            duplicated: true,
+            shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
+            mass: 1.5,
+            soundName: 'brick'
+        })
+        
+        this.objects.add({
+            base: this.resources.items.introOBase.scene, // O as E
+            collision: this.resources.items.introOCollision.scene,
+            offset: new THREE.Vector3(3.6, -1.5, 0),
+            rotation: new THREE.Euler(0, 0, 0),
+            duplicated: true,
+            shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
+            mass: 1.5,
+            soundName: 'brick'
+        })
+        
+        this.objects.add({
+            base: this.resources.items.introSBase.scene, // S as S
+            collision: this.resources.items.introSCollision.scene,
+            offset: new THREE.Vector3(4.8, -1.5, 0),
+            rotation: new THREE.Euler(0, 0, 0),
+            duplicated: true,
+            shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
+            mass: 1.5,
+            soundName: 'brick'
+        })
+        
+        this.objects.add({
+            base: this.resources.items.introMBase.scene, // M as H
+            collision: this.resources.items.introMCollision.scene,
+            offset: new THREE.Vector3(6.0, -1.5, 0),
+            rotation: new THREE.Euler(0, 0, 0),
+            duplicated: true,
+            shadow: { sizeX: 1.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.4 },
+            mass: 1.5,
+            soundName: 'brick'
+        })
+        
+        // Add subtitle "AI/ML ENGINEER" using creative positioning
+        this.objects.add({
+            base: this.resources.items.introCreativeBase.scene, // Creative as AI/ML
             collision: this.resources.items.introCreativeCollision.scene,
-            offset: new THREE.Vector3(0, 0, 0),
+            offset: new THREE.Vector3(0, -3, 0),
             rotation: new THREE.Euler(0, 0, 0.25),
             shadow: { sizeX: 5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.3 },
             mass: 1.5,
             sleep: false,
             soundName: 'brick'
         })
+        
         this.objects.add({
-            base: this.resources.items.introDevBase.scene,
+            base: this.resources.items.introDevBase.scene, // Dev as ENGINEER
             collision: this.resources.items.introDevCollision.scene,
-            offset: new THREE.Vector3(0, 0, 0),
+            offset: new THREE.Vector3(0, -4.5, 0),
             rotation: new THREE.Euler(0, 0, 0),
             shadow: { sizeX: 2.5, sizeY: 1.5, offsetZ: - 0.6, alpha: 0.3 },
             mass: 1.5,
             soundName: 'brick'
         })
-        */
-    }
-
-    createHTMLOverlay()
-    {
-        // Create HTML overlay for Atheendre's name
-        const overlay = document.createElement('div')
-        overlay.style.position = 'fixed'
-        overlay.style.top = '50%'
-        overlay.style.left = '50%'
-        overlay.style.transform = 'translate(-50%, -50%)'
-        overlay.style.zIndex = '1000'
-        overlay.style.pointerEvents = 'none'
-        overlay.style.textAlign = 'center'
-        overlay.style.fontFamily = 'Arial, sans-serif'
-        overlay.style.color = 'white'
-        overlay.style.textShadow = '2px 2px 4px rgba(0,0,0,0.8)'
-        
-        overlay.innerHTML = `
-            <div style="font-size: 4rem; font-weight: bold; margin-bottom: 0.5rem;">ATHEENDRE RAMESH</div>
-            <div style="font-size: 2rem; font-weight: normal;">AI/ML ENGINEER</div>
-        `
-        
-        document.body.appendChild(overlay)
-        
-        // Store reference for cleanup
-        this.htmlOverlay = overlay
     }
 
     setTiles()
