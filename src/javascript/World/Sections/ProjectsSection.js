@@ -347,7 +347,7 @@ export default class ProjectsSection
             //     floorTexture: this.resources.items.projectsKepplerFloorTexture,
             //     link:
             //     {
-            //         href: 'https://brunosimon.github.io/keppler/',
+            //         href: 'https://github.com/atheendre130505/',
             //         x: 2.75,
             //         y: - 1.1,
             //         halfExtents:

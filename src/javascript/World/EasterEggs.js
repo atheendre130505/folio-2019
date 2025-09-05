@@ -350,16 +350,16 @@ export default class EasterEggs
 
                     window.setTimeout(() =>
                     {
-                        if(window.confirm(`
-You find an egg!
-Here is your code for a 30% discount on https://threejs-journey.xyz
+                                            if(window.confirm(`
+You found an Easter egg! 🥚
+Here's a special message from Atheendre:
 ${code}
 
-Would you like to go on the subscription page?
-                        `))
-                        {
-                            window.open(`https://threejs-journey.xyz/subscribe/${code}`, '_blank')
-                        }
+Would you like to visit my GitHub to see more projects?
+                    `))
+                    {
+                        window.open(`https://github.com/atheendre130505`, '_blank')
+                    }
 
                         window.setTimeout(() =>
                         {

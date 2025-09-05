@@ -1,6 +1,6 @@
 # Atheendre Ramesh - 3D Portfolio
 
-A stunning 3D interactive portfolio website showcasing my work as an AI/ML Engineer and Research Intern at IIT Tirupati. Built with Three.js and inspired by Bruno Simon's folio-2019, this portfolio features an immersive 3D environment where visitors can explore my 32 GitHub repositories, research work, and professional achievements.
+A stunning 3D interactive portfolio website showcasing my work as an AI/ML Engineer and Research Intern at IIT Tirupati. Built with Three.js and inspired by modern 3D web development, this portfolio features an immersive 3D environment where visitors can explore my 32 GitHub repositories, research work, and professional achievements.
 
 ## 🚀 Live Demo
 
@@ -140,7 +140,7 @@ This is a personal portfolio project, but suggestions and improvements are welco
 
 ## 📄 License
 
-This project is based on Bruno Simon's folio-2019 and is licensed under the MIT License.
+This project is built with Three.js and modern web technologies, licensed under the MIT License.
 
 ## 👨‍💻 About Me
 
